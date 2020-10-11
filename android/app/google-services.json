@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420409208619",
+    "firebase_url": "https://collagenew-be535.firebaseio.com",
+    "project_id": "collagenew-be535",
+    "storage_bucket": "collagenew-be535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420409208619:android:f824c2da8a98ea00d51f6e",
+        "android_client_info": {
+          "package_name": "com.example.collage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420409208619-m8bgg6c25rtunsaf8nleno1jb7mcak63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7avWLvZWX6yxd8kZe0cLJaf20vUTyrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420409208619-m8bgg6c25rtunsaf8nleno1jb7mcak63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
